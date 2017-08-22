@@ -26,6 +26,8 @@ Intro
     . Things we know we don't know - Parametrization
     . Things we don't know we know - Bias?
     . Things we don't know we don't know - ??
+      . Unerwartete Seiteneffekte von anderen Technologien
+      . Unintended use
 
 * Die Rolle von Statistik, Wahrscheinlichkeit und Risiko
 
@@ -44,7 +46,7 @@ Beispiele
   - Social Networks
   - Klima, CO2
 * Zukunft
-  - KI
+  - KI (KI-Chat-Bots entwickeln eigene, neue Sprache)
 
 * Bezug zu 
   - Zukunftsforschung
